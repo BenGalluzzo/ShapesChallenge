@@ -15,9 +15,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -128,7 +125,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Export to XML
     - [ ] Drawing tools
 
-See the [open issues](https://github.com/BenGalluzzo/ShapesChallengeissues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/BenGalluzzo/ShapesChallenge/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,7 +134,7 @@ See the [open issues](https://github.com/BenGalluzzo/ShapesChallengeissues) for 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
@@ -185,10 +182,9 @@ Project Link: [https://github.com/BenGalluzzo/ShapesChallenge](https://github.co
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://github-readme-stats.vercel.app/api?username=bengalluzzo
 [contributors-url]: https://github.com/BenGalluzzo/ShapesChallenge/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/BenGalluzzo/ShapesChallenge/network/members
