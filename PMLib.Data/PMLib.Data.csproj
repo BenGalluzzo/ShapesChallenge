@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="XML\" />
+    <None Remove="JSON\" />
+    <None Remove="BIN\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="XML\" />
+    <Folder Include="JSON\" />
+    <Folder Include="BIN\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PMLib\PMLib.csproj" />
+  </ItemGroup>
+</Project>
