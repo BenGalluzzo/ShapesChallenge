@@ -196,7 +196,7 @@ Project Link: [https://github.com/BenGalluzzo/ShapesChallenge](https://github.co
 [license-url]: https://github.com/BenGalluzzo/ShapesChallenge/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/bengalluzzo
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: ShapesChallenge_output.png
 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
