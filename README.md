@@ -72,7 +72,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="ShapesChallenge_output.png" width="320" />
 
 Sample project built in .NET Core 7.0 demonstrating work with geometric shapes.
 
