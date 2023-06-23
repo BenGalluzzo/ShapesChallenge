@@ -82,6 +82,8 @@ Sample project built in .NET Core 7.0 demonstrating work with geometric shapes.
 
 ### Built With
 
+- .NET Core 7.0
+- Visual Studio 2022 for Mac
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
